@@ -18,6 +18,10 @@ throughtout the site. It's finally deployed to Netlify.
 - Tailwind CSS
 - Framer Motion
 
+# Live Version
+
+[Live Site](https://cosmic-praline-027c3b.netlify.app/)
+
 # AUTHOR
 
 - Github: [@mariosknl](https://github.com/mariosknl)
